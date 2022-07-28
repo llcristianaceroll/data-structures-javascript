@@ -32,3 +32,4 @@ myArray.push("Liu");
 console.log(myArray);
 console.log(myArray.get(0));
 console.log(myArray.pop());
+console.log(myArray.data);
